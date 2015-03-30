@@ -1,4 +1,4 @@
-#First commit
+# First commit
 
 from random import randint
 
